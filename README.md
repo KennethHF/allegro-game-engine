@@ -7,6 +7,8 @@ Outline / Notes:
   (Private)
   double x, y
   (Public)
+  double x() const
+  double y() const
   double slope(const Point&) const
   double distance(const Point&) const
   Point increment(const Point&, double) const
