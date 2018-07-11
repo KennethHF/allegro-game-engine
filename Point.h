@@ -2,7 +2,7 @@
 #ifndef ENGINE_POINT_CLASS_HEADER_H_
 #define ENGINE_POINT_CLASS_HEADER_H_
 
-//7 July 2018 (v 1.0)
+//7 July 2018
 
 #include <iostream>
 
