@@ -30,5 +30,6 @@ private:
 	Point _point;
 };
 
+std::ostream& operator<<(std::ostream& os, const Bounds b);
 
 #endif 
