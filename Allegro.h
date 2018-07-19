@@ -3,6 +3,7 @@
 #define ENGINE_ALLEGRO_INITIALIZATION_CLASS_HEADER_H_
 
 //11 July 2018
+//allegro-5.0.10-monolith-md-debug.lib
 
 #include <iostream>
 #include <allegro5/allegro.h>
